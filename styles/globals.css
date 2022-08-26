@@ -11,6 +11,8 @@ body {
 }
 
 body {
+  background-color: #3a3a3a;
+  color: #aaa;
   font-family: 'Open Sans', 'Lato', sans-serif;
 }
 
@@ -21,4 +23,8 @@ h4,
 h5,
 h6 {
   font-family: 'Lato', sans-serif;
+}
+
+.center {
+  text-align: center;
 }
